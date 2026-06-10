@@ -1,0 +1,3 @@
+- work in chunks
+- Keep code simple and uncomplicated
+- Before starting any task, clearly define what needs to be done
