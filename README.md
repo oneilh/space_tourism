@@ -17,10 +17,10 @@ This project is a collaborative challenge from [Frontend Mentor](https://spaceto
 ## My APP
 - **visit [My Cloned Application live](https://spacetourism-seven.vercel.app/)**
   
-![alt text](images/thumbnail.png)
+![alt text](public/screenshot/thumbnail.png)
 
-![alt text](images/gallery-1.png)
+![alt text](public/screenshot/gallery-1.png)
 
-![alt text](images/gallery-2.png)
+![alt text](public/screenshot/gallery-2.png)
 
-![alt text](images/gallery-3.png)
+![alt text](public/screenshot/gallery-3.png)
