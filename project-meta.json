@@ -2,7 +2,7 @@
   "id": "space-tourism",
   "name": "Space Tourism Experience",
   "description": "An immersive, multi-page frontend application providing an interactive journey through space destinations, technology, and mission crews.",
-  "image": "/images/projects/space-tourism/thumbnail.webp",
+  "image": "/images/projects/space-tourism/thumbnail.png",
   "githubUrl": "https://github.com/your-username/space-tourism",
   "liveUrl": "https://spacetourism-seven.vercel.app/",
   "tags": ["React", "useReducer", "CSS Modules", "React Router"],
@@ -20,9 +20,9 @@
       "Optimized Client Routing: Integrated React Router to manage complex nested views and enable high-performance, single-page application transitions."
     ],
     "gallery": [
-      "/images/projects/space-tourism/gallery-1.webp",
-      "/images/projects/space-tourism/gallery-2.webp",
-      "/images/projects/space-tourism/gallery-3.webp"
+      "/images/projects/space-tourism/gallery-1.png",
+      "/images/projects/space-tourism/gallery-2.png",
+      "/images/projects/space-tourism/gallery-3.png"
     ]
   }
 }
